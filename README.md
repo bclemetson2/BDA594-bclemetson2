@@ -1,8 +1,8 @@
 # Markdown Language Assignement
 Hi Professor, my name is Bret Clemetson.
 
-This is the URL for the BDA 594 Homepage:
-[(https://sdsu.instructure.com/courses/164636)]
+This is the URL for the [BDA 594 Homepage](https://sdsu.instructure.com/courses/164636):
+
 
 My Definition of Big Data:
 > Big Data is a massive amount of data that requires special skills to be able to tell the story that is hidden behind all the information.
